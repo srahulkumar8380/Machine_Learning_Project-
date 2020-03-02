@@ -52,6 +52,8 @@ X_test=sc_X.transform(X_test)
 
 
 
+#This is a simple preprocessing example with code 
+
 
 
 
